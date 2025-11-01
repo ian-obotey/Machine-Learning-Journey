@@ -1,8 +1,5 @@
 # 🚀 Machine Learning A-Z: 90-Day Journey
 
-![Status](https://img.shields.io/badge/Status-Day%201-green)
-![Progress](https://img.shields.io/badge/Section-Data%20Preprocessing-blue)
-![Hours](https://img.shields.io/badge/Hours-6%2F900-orange)
 
 ---
 
