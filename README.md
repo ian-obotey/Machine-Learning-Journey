@@ -12,6 +12,8 @@ It serves as a structured framework for tracking progress, organizing code, and 
 ---
 
 ## 🗂️ Repository Structure
+
+```plaintext
 Machine-Learning-Journey/
 │
 ├── Part-01-Data-Preprocessing/
@@ -24,11 +26,11 @@ Machine-Learning-Journey/
 ├── Part-08-Deep-Learning/
 ├── Part-09-Dimensionality-Reduction/
 ├── Part-10-Model-Selection/
+│
 ├── Coding-Practice/
 ├── Projects/
 ├── Daily-Logs/
 └── Resources/
-
 ---
 
 ## 💼 Projects Pipeline
