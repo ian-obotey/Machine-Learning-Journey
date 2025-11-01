@@ -15,7 +15,22 @@ It serves as a structured framework for tracking progress, organizing code, and 
 ---
 
 ## 🗂️ Repository Structure
-
+Machine-Learning-Journey/
+│
+├── Part-01-Data-Preprocessing/
+├── Part-02-Regression/
+├── Part-03-Classification/
+├── Part-04-Clustering/
+├── Part-05-Association-Rule-Learning/
+├── Part-06-Reinforcement-Learning/
+├── Part-07-Natural-Language-Processing/
+├── Part-08-Deep-Learning/
+├── Part-09-Dimensionality-Reduction/
+├── Part-10-Model-Selection/
+├── Coding-Practice/
+├── Projects/
+├── Daily-Logs/
+└── Resources/
 
 ---
 
