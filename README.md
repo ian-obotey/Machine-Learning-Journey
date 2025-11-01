@@ -1,6 +1,5 @@
 # 🚀 Machine Learning A-Z: 90-Day Journey
 
-
 ---
 
 ## 📌 Overview
@@ -31,6 +30,8 @@ Machine-Learning-Journey/
 ├── Projects/
 ├── Daily-Logs/
 └── Resources/
+```
+
 ---
 
 ## 💼 Projects Pipeline
